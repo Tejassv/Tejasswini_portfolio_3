@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Tejasswini</title>
+    <link>https://github.com/Tejassv/Tejasswini_portfolio_3/</link>
+    <description>Recent content in Data Science Portfolio on Tejasswini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/Tejassv/Tejasswini_portfolio_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: SQL Data exploration</title>
+      <link>https://github.com/Tejassv/Tejasswini_portfolio_3/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Tejassv/Tejasswini_portfolio_3/post/chapter-2/</guid>
+      <description>In this I have explored the dataset which contains the information of covid deaths and covid vaccinations. Data exploration and data cleaning was done in SQL server.The dataset has been taken from &amp;ldquo;Our world in data&amp;rdquo; The data gives brief explanation about the covid deaths and covid vaccinations which is presented as dashboard and compared across various data attributes. Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project I: CovidDashboard</title>
+      <link>https://github.com/Tejassv/Tejasswini_portfolio_3/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/Tejassv/Tejasswini_portfolio_3/post/chapter-1/</guid>
+      <description>In this I have created a dashboard which contains the information of covid deaths and covid vaccinations. The dashboard is created in Tableau.The dataset has been taken from &amp;ldquo;Our world in data&amp;rdquo; The data gives brief explanation about the covid deaths and covid vaccinations which is presented as dashboard and compared across various data attributes.
+[Link to the project] (https://public.tableau.com/app/profile/tejasswini4008/viz/CovidDashboard_16613261223790/Dashboard1)</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://github.com/Tejassv/Tejasswini_portfolio_3/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Tejassv/Tejasswini_portfolio_3/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/Tejassv/Tejasswini_portfolio_3/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Tejassv/Tejasswini_portfolio_3/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL Github: https://github.com/Tejassv/Tejassv LinkedIn: https://www.linkedin.com/in/tejasswini-s-8656611a5/ Gmail: tejasswinisureshkumar@gmail.com </description>
+    </item>
+    
+  </channel>
+</rss>
